@@ -1,0 +1,437 @@
+# EESchema Netlist Version 1.1 created  Mon 26 Jul 2010 03:44:24 PM PDT
+(
+ ( /4C4E0E04 $noname  D1 LED {Lib=LED}
+  (    1 N-000002 )
+  (    2 GND )
+ )
+ ( /4C4E0DF9 $noname  R5 1K {Lib=R}
+  (    1 VCC )
+  (    2 N-000002 )
+ )
+ ( /4C4E0D7F $noname  SW2 SW_PUSH {Lib=SW_PUSH}
+  (    1 GND )
+  (    2 /RST )
+ )
+ ( /4C4E0D7E $noname  R4 47K {Lib=R}
+  (    1 VCC )
+  (    2 /RST )
+ )
+ ( /4C4E0C80 $noname  SW1 SW_PUSH {Lib=SW_PUSH}
+  (    1 GND )
+  (    2 /PE2 )
+ )
+ ( /4C4E0C5A $noname  R1 47K {Lib=R}
+  (    1 VCC )
+  (    2 /PE2 )
+ )
+ ( /4C4E088E $noname  P6 CONN_5X2 {Lib=CONN_5X2}
+  (    1 VCC )
+  (    2 GND )
+  (    3 /PF0 )
+  (    4 /PF1 )
+  (    5 /PF2 )
+  (    6 /PF3 )
+  (    7 /PF4 )
+  (    8 /PF5 )
+  (    9 /PF6 )
+  (   10 /PF7 )
+ )
+ ( /4C4E0884 $noname  P5 CONN_5X2 {Lib=CONN_5X2}
+  (    1 VCC )
+  (    2 GND )
+  (    3 /PE0 )
+  (    4 /PE1 )
+  (    5 /PE2 )
+  (    6 /PE3 )
+  (    7 /PE4 )
+  (    8 /PE5 )
+  (    9 /PE6 )
+  (   10 /PE7 )
+ )
+ ( /4C4E087B $noname  P4 CONN_5X2 {Lib=CONN_5X2}
+  (    1 VCC )
+  (    2 GND )
+  (    3 /PD0 )
+  (    4 /PD1 )
+  (    5 /PD2 )
+  (    6 /PD3 )
+  (    7 /PD4 )
+  (    8 /PD5 )
+  (    9 /PD6 )
+  (   10 /PD7 )
+ )
+ ( /4C4E086D $noname  P3 CONN_5X2 {Lib=CONN_5X2}
+  (    1 VCC )
+  (    2 GND )
+  (    3 /PC0 )
+  (    4 /PC1 )
+  (    5 /PC2 )
+  (    6 /PC3 )
+  (    7 /PC4 )
+  (    8 /PC5 )
+  (    9 /PC6 )
+  (   10 /PC7 )
+ )
+ ( /4C4E0863 $noname  P2 CONN_5X2 {Lib=CONN_5X2}
+  (    1 VCC )
+  (    2 GND )
+  (    3 /PB0 )
+  (    4 /PB1 )
+  (    5 /PB2 )
+  (    6 /PB3 )
+  (    7 /PB4 )
+  (    8 /PB5 )
+  (    9 /PB6 )
+  (   10 /PB7 )
+ )
+ ( /4C4E06F1 $noname  C2 C {Lib=C}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4C4E06E4 $noname  C1 C {Lib=C}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4C4E05DF $noname  R3 22 {Lib=R}
+  (    1 N-000052 )
+  (    2 /D+ )
+ )
+ ( /4C4E05DC $noname  R2 22 {Lib=R}
+  (    1 N-000043 )
+  (    2 /D- )
+ )
+ ( /4C3A5953 $noname  P1 CONN_5X2 {Lib=CONN_5X2}
+  (    1 VCC )
+  (    2 GND )
+  (    3 /PA0 )
+  (    4 /PA1 )
+  (    5 /PA2 )
+  (    6 /PA3 )
+  (    7 /PA4 )
+  (    8 /PA5 )
+  (    9 /PA6 )
+  (   10 /PA7 )
+ )
+ ( /4C3A55CC $noname  U1 FX860SSV {Lib=FX860SSV}
+  (    1 /PF5 )
+  (    2 /PF6 )
+  (    3 /PF7 )
+  (    4 GND )
+  (    5 VCC )
+  (    6 /PA0 )
+  (    7 /PA1 )
+  (    8 /PA2 )
+  (    9 /PA3 )
+  (   10 /PA4 )
+  (   11 /PA5 )
+  (   12 /PA6 )
+  (   13 /PA7 )
+  (   14 /PE2 )
+  (   15 /PC7 )
+  (   16 /PC6 )
+  (   17 /PC5 )
+  (   18 /PC4 )
+  (   19 /PC3 )
+  (   20 /PC2 )
+  (   21 /PC1 )
+  (   22 /PC0 )
+  (   23 /PE1 )
+  (   24 /PE0 )
+  (   25 /PD7 )
+  (   26 /PD6 )
+  (   27 /PD5 )
+  (   28 /PD4 )
+  (   29 /PD3 )
+  (   30 /PD2 )
+  (   31 /PD1 )
+  (   32 /PD0 )
+  (   33 GND )
+  (   34 VCC )
+  (   35 /RST )
+  (   36 /PE5 )
+  (   37 /PE4 )
+  (   38 /PB7 )
+  (   39 /PB6 )
+  (   40 /PB5 )
+  (   41 /PB4 )
+  (   42 /PB3 )
+  (   43 /PB2 )
+  (   44 /PB1 )
+  (   45 /PB0 )
+  (   46 /PE3 )
+  (   47 VCC )
+  (   48 GND )
+  (   49 /D+ )
+  (   50 /D- )
+  (   51 VCC )
+  (   52 /PE7 )
+  (   53 /PE6 )
+  (   54 VCC )
+  (   55 GND )
+  (   56 /PF0 )
+  (   57 /PF1 )
+  (   58 /PF2 )
+  (   59 /PF3 )
+  (   60 /PF4 )
+ )
+ ( /4C3A55C3 $noname  U2 USB {Lib=USB}
+  (    1 VCC )
+  (    2 N-000043 )
+  (    3 N-000052 )
+  (    4 ? )
+  (    5 GND )
+  (    6 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "GND" "GND"
+ D1 2
+ SW2 1
+ SW1 1
+ P6 2
+ P5 2
+ P4 2
+ P3 2
+ P2 2
+ C2 2
+ C1 2
+ P1 2
+ U1 33
+ U1 48
+ U1 55
+ U1 4
+ U2 5
+ U2 6
+Net 2 "" ""
+ D1 1
+ R5 2
+Net 3 "/PF7" "PF7"
+ P6 10
+ U1 3
+Net 4 "/PF3" "PF3"
+ P6 6
+ U1 59
+Net 5 "/PF4" "PF4"
+ P6 7
+ U1 60
+Net 6 "/PF0" "PF0"
+ P6 3
+ U1 56
+Net 7 "/PF2" "PF2"
+ P6 5
+ U1 58
+Net 8 "/PF6" "PF6"
+ P6 9
+ U1 2
+Net 9 "/PF1" "PF1"
+ P6 4
+ U1 57
+Net 10 "/PF5" "PF5"
+ P6 8
+ U1 1
+Net 11 "/PE7" "PE7"
+ P5 10
+ U1 52
+Net 12 "/PE3" "PE3"
+ P5 6
+ U1 46
+Net 13 "/PE4" "PE4"
+ P5 7
+ U1 37
+Net 14 "/PE0" "PE0"
+ P5 3
+ U1 24
+Net 15 "/PE2" "PE2"
+ SW1 2
+ R1 2
+ P5 5
+ U1 14
+Net 16 "/PE6" "PE6"
+ P5 9
+ U1 53
+Net 17 "/PE1" "PE1"
+ P5 4
+ U1 23
+Net 18 "/PE5" "PE5"
+ P5 8
+ U1 36
+Net 19 "/PD7" "PD7"
+ P4 10
+ U1 25
+Net 20 "/PD3" "PD3"
+ P4 6
+ U1 29
+Net 21 "/PD4" "PD4"
+ P4 7
+ U1 28
+Net 22 "/PD0" "PD0"
+ P4 3
+ U1 32
+Net 23 "/PD2" "PD2"
+ P4 5
+ U1 30
+Net 24 "/PD6" "PD6"
+ P4 9
+ U1 26
+Net 25 "/PD1" "PD1"
+ P4 4
+ U1 31
+Net 26 "/PD5" "PD5"
+ P4 8
+ U1 27
+Net 27 "/PC7" "PC7"
+ P3 10
+ U1 15
+Net 28 "/PC3" "PC3"
+ P3 6
+ U1 19
+Net 29 "/PC4" "PC4"
+ P3 7
+ U1 18
+Net 30 "/PC0" "PC0"
+ P3 3
+ U1 22
+Net 31 "/PC2" "PC2"
+ P3 5
+ U1 20
+Net 32 "/PC6" "PC6"
+ P3 9
+ U1 16
+Net 33 "/PC1" "PC1"
+ P3 4
+ U1 21
+Net 34 "/PC5" "PC5"
+ P3 8
+ U1 17
+Net 35 "/PB7" "PB7"
+ P2 10
+ U1 38
+Net 36 "/PB3" "PB3"
+ P2 6
+ U1 42
+Net 37 "/PB4" "PB4"
+ P2 7
+ U1 41
+Net 38 "/PB0" "PB0"
+ P2 3
+ U1 45
+Net 39 "/PB2" "PB2"
+ P2 5
+ U1 43
+Net 40 "/PB6" "PB6"
+ P2 9
+ U1 39
+Net 41 "/PB1" "PB1"
+ P2 4
+ U1 44
+Net 42 "/PB5" "PB5"
+ P2 8
+ U1 40
+Net 43 "" ""
+ R2 1
+ U2 2
+Net 44 "/PA7" "PA7"
+ P1 10
+ U1 13
+Net 45 "/PA3" "PA3"
+ P1 6
+ U1 9
+Net 46 "/PA4" "PA4"
+ P1 7
+ U1 10
+Net 47 "/PA0" "PA0"
+ P1 3
+ U1 6
+Net 48 "/PA2" "PA2"
+ P1 5
+ U1 8
+Net 49 "/PA6" "PA6"
+ P1 9
+ U1 12
+Net 50 "/PA1" "PA1"
+ P1 4
+ U1 7
+Net 51 "/PA5" "PA5"
+ P1 8
+ U1 11
+Net 52 "" ""
+ R3 1
+ U2 3
+Net 53 "VCC" "VCC"
+ R5 1
+ R4 1
+ R1 1
+ P6 1
+ P5 1
+ P4 1
+ P3 1
+ P2 1
+ C2 1
+ C1 1
+ P1 1
+ U1 34
+ U1 47
+ U1 51
+ U1 54
+ U1 5
+ U2 1
+Net 55 "/D-" "D-"
+ R2 2
+ U1 50
+Net 56 "/RST" "RST"
+ SW2 2
+ R4 2
+ U1 35
+Net 57 "/D+" "D+"
+ R3 2
+ U1 49
+}
+#End

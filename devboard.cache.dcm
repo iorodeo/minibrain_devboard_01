@@ -1,8 +1,26 @@
-EESchema-DOCLIB  Version 2.0  Sun 11 Jul 2010 05:32:19 PM PDT
+EESchema-DOCLIB  Version 2.0  Mon 26 Jul 2010 08:00:38 PM PDT
+#
+$CMP C
+D Condensateur non polarise
+$ENDCMP
 #
 $CMP CONN_5X2
 D Symbole general de connecteur
 K CONN
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP SW_PUSH
+D Push Button
+K Switch
 $ENDCMP
 #
 #End Doc Library
