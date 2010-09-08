@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CVpcb (20090216-final) date = Tue 07 Sep 2010 11:14:22 AM PDT
+
+BeginCmp
+TimeStamp = /4C4E06E4;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E06F1;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0E04;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C3A5953;
+Reference = P1;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0863;
+Reference = P2;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E086D;
+Reference = P3;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E087B;
+Reference = P4;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0884;
+Reference = P5;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E088E;
+Reference = P6;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0C5A;
+Reference = R1;
+ValeurCmp = 47K;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E05DC;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E05DF;
+Reference = R3;
+ValeurCmp = 22;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0D7E;
+Reference = R4;
+ValeurCmp = 47K;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0DF9;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = SM0603_minibrain;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0C80;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = mini-pb;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E0D7F;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = mini-pb;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C3A55CC;
+Reference = U1;
+ValeurCmp = FX860SSV;
+IdModule  = receptacle_fx860SSV;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C3A55C3;
+Reference = U2;
+ValeurCmp = USB;
+IdModule  = usb_b_mini;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C4E19FA;
+Reference = U3;
+ValeurCmp = JTAG;
+IdModule  = HEADER_5x2_REG;
+EndCmp
+
+EndListe
